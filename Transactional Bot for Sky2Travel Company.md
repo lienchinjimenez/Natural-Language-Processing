@@ -1,6 +1,6 @@
 # Transactional Bot for Sky2Travel Company
 <p style="text-align: justify;">
-This project was carried out during one week in March 2023, in the Data Science master's course at the **Assembler Institute of Technology**. We were a team of four people: Helen Navarro, Sergio Salvador, Francisco Ávila, Lien Chin.
+This project was done in a week in March 2023 in the Master of Data Science at Assembler Institute of Technology. We were a team of four people: Helen Navarro, Sergio Salvador, Francisco Ávila, Lien Chin.
 </p>
 <p style="text-align: justify;">
 This project involved developing a transactional bot for managing queries and orders for the fictional company Sky2Travel. As a freelance consultant hired by the company, I was asked to perform an initial demo of the project to check the feasibility of the requirements.
